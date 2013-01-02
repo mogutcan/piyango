@@ -1,2 +1,2 @@
-piyango
+http://piyango.herokuapp.com
 =======
